@@ -14,7 +14,7 @@ The repository includes Gephi files, image files, and Excel files for both Figur
 # Citation:
 If you are using this dataset please cite:
 
-`Lepneva, Mariia. "Social network data for Guangji Monastery in Beijing in the late Ming and early Qing." 2024. https://github.com/Mariia-Lepneva/Guangji_Monastery`
+`Lepneva, Mariia. "Social network data for Guangji Monastery in Beijing in the seventeenth century." 2024. https://github.com/Mariia-Lepneva/Guangji_Monastery`
 
 # License:
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
