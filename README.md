@@ -11,6 +11,9 @@ Figure 2 presents the networks of the monks of Guangji Monastery. Not only were 
 
 The repository includes Gephi files, image files, and Excel files for both Figures.
 
+This research was supported by the Research Foundation Flanders (FWO) within the framework of the postdoctoral project ‘Vinaya revival on Baohua mountain in Ming-Qing China’ (file
+no. 1254524 N).
+
 # Citation:
 If you are using this dataset please cite:
 
