@@ -3,7 +3,7 @@
 
 This repository provides social network data for Beijing Guangji Monastery in the seventeenth century, based on the [monastery gazetteer](http://buddhistinformatics.dila.edu.tw/fosizhi/ui.html?book=g044). This data underlies Figures 1 and 2 in my paper:
 
-`Lepneva, Mariia. "Institutional Adaptation of Chinese Buddhism to the Ming-Qing Transition: Two-Lineage Model of Guangji Monastery in Beijing." *Journal of Chinese Buddhist Studies* (forthcoming)`
+`Lepneva, Mariia. "Institutional Adaptation of Chinese Buddhism to the Ming-Qing Transition: Two-Lineage Model of Guangji Monastery in Beijing." Journal of Chinese Buddhist Studies=中華佛學學報 37 (2024): 89–155. <https://chinesebuddhiststudies.org/article/institutional-adaptation-of-chinese-buddhism-to-the-ming-qing-transition-two-lineage-model-of-guangji-monastery-in-beijing/>`
 
 Figure 1 features the peculiar institutional arrangement that took shape in Guangji Monastery in the second half of the seventeenth century. Control over the monastery was shared by a tonsure lineage and an ordination lineage. 
 
